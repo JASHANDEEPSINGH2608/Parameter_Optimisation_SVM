@@ -1,0 +1,2 @@
+Best Parameters,Best Cross-Validation Accuracy,Test Set Accuracy
+"{'degree': 2, 'gamma': 'scale', 'kernel': 'rbf', 'nu': 0.1}",0.9896667299057738,0.9888888888888889
