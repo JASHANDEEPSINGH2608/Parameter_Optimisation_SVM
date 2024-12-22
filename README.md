@@ -7,9 +7,10 @@ This repository contains an implementation of Support Vector Machines (SVM) for 
 1. [Features and Techniques](#features-and-techniques)
 2. [Usage](#usage)
 3. [Dependencies](#dependencies)
-4. [Project Structure](#project-structure)
-5. [Results](#results)
-6. [Contributing](#contributing)
+4. [Dataset](#dataset)
+5. [Project Structure](#project-structure)
+6. [Results](#results)
+
 
 ## Features and Techniques
 The notebook explores the following:
