@@ -53,7 +53,6 @@ Target variable: Room Occupancy Count (number of people in the room).
 ```
 SVM_Project/
 |-- svm.ipynb              # Main notebook with analysis
-|-- requirements.txt       # Python dependencies
 |-- data/                  # Dataset used in the analysis
 |-- README.md              # Project documentation
 ```
