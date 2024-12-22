@@ -64,8 +64,8 @@ SVM_Project/
 - **Best Kernel:** Linear  
 - **Best Accuracy:** 1.0  
 - **Optimal Parameters:**  
-  - Nu (C): 1.19  
-  - Epsilon (Gamma): 4.05  
+  - Nu (C): 1.17  
+  - Epsilon (Gamma): 4.03
 
 ## Performance Table
 
@@ -73,7 +73,7 @@ SVM_Project/
 |--------|---------------|-------------|-------------|-----------------------|
 | 1      | 0.99          | linear      | 8.28        | 2.83                 |
 | 2      | 0.99          | linear      | 0.61        | 6.43                 |
-| 3      | 1.0           | linear      | 1.19        | 4.05                 |
+| 3      | 1.0           | linear      | 1.17        | 4.03                 |
 | 4      | 0.99          | poly        | 6.94        | 4.37                 |
 | 5      | 0.99          | poly        | 5.94        | 8.56                 |
 | 6      | 1.0           | linear      | 0.74        | 3.55                 |
